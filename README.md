@@ -320,7 +320,7 @@ If a type exists only to implement an interface and will never have exported met
         fmt.Printf("%s does not exist\n", path)
       }
 
-![ThisisFine](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUSp1_a5XLPCQ2ab4KXI5o9GWd774zh26ENQ&usqp=CAU)
+![ThisisFine](https://www.dictionary.com/e/wp-content/uploads/2018/03/This-is-Fine-300x300.jpg)
   
   **DO NOT do this:**
 
