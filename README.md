@@ -25,7 +25,7 @@ multi-paradigm and object-oriented, and it was inspired by Python and C.
 
 ## Advantages
 
-![GoNinja](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCmH0IXOBXIGeGWfNYYNMvEsg0H--PTpXdoA&usqp=CAU)
+![GoNinja](https://juststickers.in/wp-content/uploads/2019/01/gopher-ninja.png)
 
 * **Modern**
 
