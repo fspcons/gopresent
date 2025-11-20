@@ -20,7 +20,7 @@ multi-paradigm and object-oriented, and it was inspired by Python and C.
 
 * Go has garbage collection which automatically performs memory management and permits deferred execution of functions.
 
-* Although it currently does not support generics, there are rumors that in the upcoming versions it might.
+* ~~Although it currently does not support generics, there are rumors that in the upcoming versions it might.~~ **It currently supports generics.**
 
 
 ## Advantages
